@@ -1,7 +1,7 @@
 # News Article Multiclass Classification
 
 Applied Machine Learning, Experiment 10, UPES  
-Karan Chaubey and Himani Phartiyal · Faculty: Dr. Pavinder Yadav
+Karan Chaubey and Himani Phartiyal · Faculty: Dr. Sahinur Rahman Laskar
 
 Given an English headline and article, predict one editorial desk: business, entertainment, politics, sport or tech. The executed notebook includes the full implementation, comparison tables, confusion matrix, an error analysis and an editable demo.
 
